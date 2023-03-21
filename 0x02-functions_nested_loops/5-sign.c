@@ -16,11 +16,9 @@ int print_sign(int n)
 	{
 	_putchar(45);
 	return (-1);
-	}
+3	}
 	else
 	{
 	_putchar(48);
-	return (0);
-	}
+	return (0);	}
 }
-
